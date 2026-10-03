@@ -1,5 +1,7 @@
 # Teaching Summaries: *Paṭicca Samuppāda Dhammaya*
 
+> **සිංහල සාරාංශ:** [sinhala/README.md](sinhala/README.md)
+
 Beginner-friendly summaries of Ven. Kaṭukurunde Ñāṇananda's 20 Pahan Kanuwa sermons on dependent arising (sermons 183–202). They are meant to be read **before** the full book, so that you meet the key concepts first. They follow the six-part structure of the [study plan](../STUDY_PLAN.md).
 
 | Part | Sermons | Summary | Core ideas |
